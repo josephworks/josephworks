@@ -1,5 +1,7 @@
 echo installing depends
-if [ "$PASSWORD" == "$VALID_PASSWORD" ]; then
+echo "Would You like to get all dependencies (yes/no):"
+read USERNAME
+if [ "$answer" == "$VALID_PASSWORD" ]; then
 	echo "You have access!"
 else
 	sudo apt install git
