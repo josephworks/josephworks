@@ -1,8 +1,8 @@
 echo installing depends
 echo "Would You like to get all dependencies (yes/no):"
-read USERNAME
-if [ "$answer" == "$VALID_PASSWORD" ]; then
-	echo "You have access!"
+read answer
+if [ "$answer" == "yes" ]; then
+	sudo apt install git default-jre default-jdk python-pip python maven toilet figlet sudo apt wget mysql-server default-jre screen git apache2 curl unzip
 else
 	sudo apt install git
 fi
