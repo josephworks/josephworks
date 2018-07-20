@@ -2,8 +2,6 @@
 A Repository to install all repositories on JosephWorks' account!
 
 ```sh
-git clone https://github.com/josephworks/josephworks.git
-cd josephworks
-chmod -X getjosephworks.sh
-sudo bash ./getjosephworks.sh
+wget https://raw.githubusercontent.com/josephworks/josephworks/master/getjosephworks.sh
+sudo bash getjosephworks.sh
 ```
