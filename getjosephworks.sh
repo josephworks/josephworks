@@ -34,7 +34,6 @@ git clone https://github.com/josephworks/SpigotCraft
 git clone https://github.com/josephworks/ThermosServer
 git clone https://github.com/josephworks/Table-Viewer
 git clone https://github.com/josephworks/Gideon
-git clone https://github.com/josephworks/thunderstorm
 git clone https://github.com/josephworks/Windows-subsystem-for-Linux
 git clone https://github.com/josephworks/Google-Chrome-Linux-root-fix
 git clone https://github.com/josephworks/PaperTestServer
