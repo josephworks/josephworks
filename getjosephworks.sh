@@ -10,10 +10,15 @@ cd josephworks
 
 # Main
 echo "Cloning all Repositories to ./josephworks"
+git clone https://github.com/josephworks/AtomMC
+git clone https://github.com/josephworks/HelpDesk
+git clone https://github.com/josephworks/BungeeSpigot
 git clone https://github.com/josephworks/files
 git clone https://github.com/josephworks/McEmeraldtnt
 git clone https://github.com/josephworks/McAdventure
+git clone https://github.com/josephworks/exploit-database
 git clone https://github.com/josephworks/ultimatelinux.sh
+git clone https://github.com/josephworks/josephworks
 git clone https://github.com/josephworks/josephworks.github.io
 git clone https://github.com/josephworks/MinecraftMultiversion
 git clone https://github.com/josephworks/McCompile
