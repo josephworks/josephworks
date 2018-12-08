@@ -33,7 +33,6 @@ git clone https://github.com/josephworks/Registry-Edits
 git clone https://github.com/josephworks/PaperCraft
 git clone https://github.com/josephworks/SpigotCraft
 git clone https://github.com/josephworks/ThermosServer
-git clone https://github.com/josephworks/Table-Viewer
 git clone https://github.com/josephworks/Gideon
 git clone https://github.com/josephworks/Windows-subsystem-for-Linux
 git clone https://github.com/josephworks/Google-Chrome-Linux-root-fix
