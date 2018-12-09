@@ -17,7 +17,6 @@ git clone https://github.com/josephworks/Scripts
 git clone https://github.com/josephworks/files
 git clone https://github.com/josephworks/McEmeraldtnt
 git clone https://github.com/josephworks/McAdventure
-git clone https://github.com/josephworks/exploit-database
 git clone https://github.com/josephworks/ultimatelinux.sh
 git clone https://github.com/josephworks/josephworks
 git clone https://github.com/josephworks/josephworks.github.io
