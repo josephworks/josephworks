@@ -26,7 +26,6 @@ git clone https://github.com/josephworks/Gwen-Remade
 git clone https://github.com/josephworks/CMDWorkspaceTools
 git clone https://github.com/josephworks/serverbuilder
 git clone https://github.com/josephworks/WebIDE
-git clone https://github.com/josephworks/linux-update
 git clone https://github.com/josephworks/JenkinsServer
 git clone https://github.com/josephworks/Registry-Edits
 git clone https://github.com/josephworks/PaperCraft
