@@ -14,6 +14,7 @@ git clone https://github.com/josephworks/AtomMC
 git clone https://github.com/josephworks/HelpDesk
 git clone https://github.com/josephworks/BungeeSpigot
 git clone https://github.com/josephworks/Scripts
+git clone https://github.com/josephworks/startxcli.sh.git
 git clone https://github.com/josephworks/files
 git clone https://github.com/josephworks/McEmeraldtnt
 git clone https://github.com/josephworks/McAdventure
