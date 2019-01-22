@@ -14,7 +14,7 @@ git clone https://github.com/josephworks/AtomMC
 git clone https://github.com/josephworks/HelpDesk
 git clone https://github.com/josephworks/BungeeSpigot
 git clone https://github.com/josephworks/Scripts
-git clone https://github.com/josephworks/startxcli.sh.git
+git clone https://github.com/josephworks/startxcli.sh
 git clone https://github.com/josephworks/files
 git clone https://github.com/josephworks/McEmeraldtnt
 git clone https://github.com/josephworks/McAdventure
@@ -30,6 +30,7 @@ git clone https://github.com/josephworks/WebIDE
 git clone https://github.com/josephworks/JenkinsServer
 git clone https://github.com/josephworks/Registry-Edits
 git clone https://github.com/josephworks/PaperCraft
+git clone https://github.com/josephworks/pythonws
 git clone https://github.com/josephworks/SpigotCraft
 git clone https://github.com/josephworks/ThermosServer
 git clone https://github.com/josephworks/Gideon
