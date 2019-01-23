@@ -3,7 +3,7 @@
 # Pre-Init
 toilet Starting...
 toilet josephworks
-echo installing depens
+echo installing depends
 sudo apt install git toilet
 mkdir josephworks
 cd josephworks
