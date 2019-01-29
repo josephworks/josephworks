@@ -1,0 +1,10 @@
+Package: JosephWorks
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: libsomethingorrather (>= 1.2.13), anotherDependency (>= 1.2.6)
+Maintainer: Joseph Robinson <smartech56@gmail.com>
+Description: JosephWorks
+ A command to clone all of josephworks' repositories form GitHub
+ Src: https://github.com/josephworks/josephworks
