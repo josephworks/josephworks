@@ -18,6 +18,7 @@ git clone https://github.com/josephworks/startxcli.sh
 git clone https://github.com/josephworks/files
 git clone https://github.com/josephworks/McEmeraldtnt
 git clone https://github.com/josephworks/McAdventure
+gti clone https://github.com/josephworks/MCPluginDB
 git clone https://github.com/josephworks/ultimatelinux.sh
 git clone https://github.com/josephworks/josephworks
 git clone https://github.com/josephworks/josephworks.github.io
