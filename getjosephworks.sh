@@ -13,7 +13,6 @@ echo "Cloning all Repositories to ./josephworks ..."
 git clone https://github.com/josephworks/about
 git clone https://github.com/josephworks/AtomMC
 git clone https://github.com/josephworks/csharp
-git clone https://github.com/josephworks/Kettle
 git clone https://github.com/josephworks/HelpDesk
 git clone https://github.com/josephworks/BungeeSpigot
 git clone https://github.com/josephworks/BookManager
@@ -27,6 +26,7 @@ git clone https://github.com/josephworks/McAdventure
 gti clone https://github.com/josephworks/MCPluginDB
 git clone https://github.com/josephworks/ultimatelinux.sh
 git clone https://github.com/josephworks/josephworks
+git clone https://github.com/josephworks/josephworks.net
 git clone https://github.com/josephworks/josephworks.github.io
 git clone https://github.com/josephworks/josephworks.ddns.net
 git clone https://github.com/josephworks/matrixdevteam.ml
