@@ -29,7 +29,6 @@ git clone https://github.com/josephworks/josephworks
 git clone https://github.com/josephworks/josephworks.net
 git clone https://github.com/josephworks/josephworks.github.io
 git clone https://github.com/josephworks/josephworks.ddns.net
-git clone https://github.com/josephworks/matrixdevteam.ml
 git clone https://github.com/josephworks/games
 git clone https://github.com/josephworks/MinecraftMultiversion
 git clone https://github.com/josephworks/McCompile
