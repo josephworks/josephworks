@@ -23,7 +23,7 @@ git clone https://github.com/josephworks/vbnet
 git clone https://github.com/josephworks/Volcano
 git clone https://github.com/josephworks/McEmeraldtnt
 git clone https://github.com/josephworks/McAdventure
-gti clone https://github.com/josephworks/MCPluginDB
+git clone https://github.com/josephworks/MCPluginDB
 git clone https://github.com/josephworks/ultimatelinux.sh
 git clone https://github.com/josephworks/josephworks
 git clone https://github.com/josephworks/josephworks.net
