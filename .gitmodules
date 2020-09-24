@@ -1,3 +1,203 @@
+[submodule "about"]
+	path = about
+	url = git://github.com/josephworks/about
+
+[submodule "Assistant"]
+	path = Assistant
+	url = git://github.com/josephworks/Assistant
+
+[submodule "ZeroDevelop-SDK"]
+	path = ZeroDevelop-SDK
+	url = git://github.com/josephworks/ZeroDevelop-SDK
+
+[submodule "ConsoleMC"]
+	path = ConsoleMC
+	url = git://github.com/josephworks/ConsoleMC
+
+[submodule "Matix"]
+	path = Matix
+	url = git://github.com/josephworks/Matix
+
 [submodule "AtomMC"]
 	path = AtomMC
 	url = git://github.com/josephworks/AtomMC
+
+[submodule "PPA"]
+	path = PPA
+	url = git://github.com/josephworks/PPA
+
+[submodule "csharp"]
+	path = csharp
+	url = git://github.com/josephworks/csharp
+
+[submodule "CSharpOnline"]
+	path = CSharpOnline
+	url = git://github.com/josephworks/CSharpOnline
+
+[submodule "HOSE"]
+	path = HOSE
+	url = git://github.com/josephworks/HOSE
+
+[submodule "HelpDesk"]
+	path = HelpDesk
+	url = git://github.com/josephworks/HelpDesk
+
+[submodule "BungeeSpigot"]
+	path = BungeeSpigot
+	url = git://github.com/josephworks/BungeeSpigot
+
+[submodule "BookManager"]
+	path = BookManager
+	url = git://github.com/josephworks/BookManager
+
+[submodule "2DGameKit-Unity"]
+	path = 2DGameKit-Unity
+	url = git://github.com/josephworks/2DGameKit-Unity
+
+[submodule "BukkitGUI2"]
+	path = BukkitGUI2
+	url = git://github.com/josephworks/BukkitGUI2
+
+[submodule "KettleMixin"]
+	path = KettleMixin
+	url = git://github.com/josephworks/KettleMixin
+
+[submodule "Scripts"]
+	path = Scripts
+	url = git://github.com/josephworks/Scripts
+
+[submodule "startxcli.sh"]
+	path = startxcli.sh
+	url = git://github.com/josephworks/startxcli.sh
+
+[submodule "files"]
+	path = files
+	url = git://github.com/josephworks/files
+
+[submodule "LunarLander"]
+	path = LunarLander
+	url = git://github.com/josephworks/LunarLander
+
+[submodule "JavaWS"]
+	path = JavaWS
+	url = git://github.com/josephworks/JavaWS
+
+[submodule "vbnet"]
+	path = vbnet
+	url = git://github.com/josephworks/vbnet
+
+[submodule "Volcano"]
+	path = Volcano
+	url = git://github.com/josephworks/Volcano
+
+[submodule "McEmeraldtnt"]
+	path = McEmeraldtnt
+	url = git://github.com/josephworks/McEmeraldtnt
+
+[submodule "McAdventure"]
+	path = McAdventure
+	url = git://github.com/josephworks/McAdventure
+
+[submodule "MCPluginDB"]
+	path = MCPluginDB
+	url = git://github.com/josephworks/MCPluginDB
+
+[submodule "ultimatelinux.sh"]
+	path = ultimatelinux.sh
+	url = git://github.com/josephworks/ultimatelinux.sh
+
+[submodule "JosephCore"]
+	path = JosephCore
+	url = git://github.com/josephworks/JosephCore
+
+[submodule "josephworks"]
+	path = josephworks
+	url = git://github.com/josephworks/josephworks
+
+[submodule "josephworks.net"]
+	path = josephworks.net
+	url = git://github.com/josephworks/josephworks.net
+
+[submodule "josephworks.github.io"]
+	path = josephworks.github.io
+	url = git://github.com/josephworks/josephworks.github.io
+
+[submodule "josephworks.ddns.net"]
+	path = josephworks.ddns.net
+	url = git://github.com/josephworks/josephworks.ddns.net
+
+[submodule "games"]
+	path = games
+	url = git://github.com/josephworks/games
+
+[submodule "MinecraftMultiversion"]
+	path = MinecraftMultiversion
+	url = git://github.com/josephworks/MinecraftMultiversion
+
+[submodule "McCompile"]
+	path = McCompile
+	url = git://github.com/josephworks/McCompile
+
+[submodule "Gwen-Remade"]
+	path = Gwen-Remade
+	url = git://github.com/josephworks/Gwen-Remade
+
+[submodule "CMDWorkspaceTools"]
+	path = CMDWorkspaceTools
+	url = git://github.com/josephworks/CMDWorkspaceTools
+
+[submodule "serverbuilder"]
+	path = serverbuilder
+	url = git://github.com/josephworks/serverbuilder
+
+[submodule "WebIDE"]
+	path = WebIDE
+	url = git://github.com/josephworks/WebIDE
+
+[submodule "JenkinsServer"]
+	path = JenkinsServer
+	url = git://github.com/josephworks/JenkinsServer
+
+[submodule "Registry-Edits"]
+	path = Registry-Edits
+	url = git://github.com/josephworks/Registry-Edits
+
+[submodule "PaperCraft"]
+	path = PaperCraft
+	url = git://github.com/josephworks/PaperCraft
+
+[submodule "Paper"]
+	path = Paper
+	url = git://github.com/josephworks/Paper
+
+[submodule "Paint"]
+	path = Paint
+	url = git://github.com/josephworks/Paint
+
+[submodule "Glowstone"]
+	path = Glowstone
+	url = git://github.com/josephworks/Glowstone
+
+[submodule "PythonWS"]
+	path = PythonWS
+	url = git://github.com/josephworks/PythonWS
+
+[submodule "SpigotCraft"]
+	path = SpigotCraft
+	url = git://github.com/josephworks/SpigotCraft
+
+[submodule "ThermosServer"]
+	path = ThermosServer
+	url = git://github.com/josephworks/ThermosServer
+
+[submodule "Gideon"]
+	path = Gideon
+	url = git://github.com/josephworks/Gideon
+
+[submodule "Powershell-policy-fix"]
+	path = Powershell-policy-fix
+	url = git://github.com/josephworks/Powershell-policy-fix
+
+[submodule "2048"]
+	path = 2048
+	url = git://github.com/josephworks/2048
