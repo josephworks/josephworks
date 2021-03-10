@@ -10,7 +10,7 @@ cd josephworks
 
 # Main
 echo "Cloning all Repositories to ./josephworks ..."
-git submodule update --init --recursive
+git submodule update --init --recursive --jobs 8
 
 echo "Finished the cloning process"
 echo "Creating Update Script..."
