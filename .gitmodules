@@ -58,10 +58,6 @@
 	path = BukkitGUI2
 	url = git://github.com/josephworks/BukkitGUI2
 
-[submodule "KettleMixin"]
-	path = KettleMixin
-	url = git://github.com/josephworks/KettleMixin
-
 [submodule "Scripts"]
 	path = Scripts
 	url = git://github.com/josephworks/Scripts
