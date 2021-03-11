@@ -162,10 +162,6 @@
 	path = Paint
 	url = git://github.com/josephworks/Paint
 
-[submodule "Glowstone"]
-	path = Glowstone
-	url = git://github.com/josephworks/Glowstone
-
 [submodule "PythonWS"]
 	path = PythonWS
 	url = git://github.com/josephworks/PythonWS
