@@ -1,234 +1,234 @@
 [submodule "about"]
 	path = about
-	url = git://github.com/josephworks/about
+	url = https://github.com/josephworks/about
 	branch = master
 	
 [submodule "Assistant"]
 	path = Assistant
-	url = git://github.com/josephworks/Assistant
+	url = https://github.com/josephworks/Assistant
 	branch = master
 
 [submodule "ZeroDevelop-SDK"]
 	path = ZeroDevelop-SDK
-	url = git://github.com/josephworks/ZeroDevelop-SDK
+	url = https://github.com/josephworks/ZeroDevelop-SDK
 	branch = master
 
 [submodule "ConsoleMC"]
 	path = ConsoleMC
-	url = git://github.com/josephworks/ConsoleMC
+	url = https://github.com/josephworks/ConsoleMC
 	branch = master
 
 [submodule "Matix"]
 	path = Matix
-	url = git://github.com/josephworks/Matix
+	url = https://github.com/josephworks/Matix
 	branch = master
 
 [submodule "AtomMC"]
 	path = AtomMC
-	url = git://github.com/josephworks/AtomMC
+	url = https://github.com/josephworks/AtomMC
 	branch = master
 
 [submodule "PPA"]
 	path = PPA
-	url = git://github.com/josephworks/PPA
+	url = https://github.com/josephworks/PPA
 	branch = master
 
 [submodule "csharp"]
 	path = csharp
-	url = git://github.com/josephworks/csharp
+	url = https://github.com/josephworks/csharp
 	branch = master
 
 [submodule "CSharpOnline"]
 	path = CSharpOnline
-	url = git://github.com/josephworks/CSharpOnline
+	url = https://github.com/josephworks/CSharpOnline
 	branch = master
 
 [submodule "HOSE"]
 	path = HOSE
-	url = git://github.com/josephworks/HOSE
+	url = https://github.com/josephworks/HOSE
 	branch = master
 
 [submodule "HelpDesk"]
 	path = HelpDesk
-	url = git://github.com/josephworks/HelpDesk
+	url = https://github.com/josephworks/HelpDesk
 	branch = master
 
 [submodule "BungeeSpigot"]
 	path = BungeeSpigot
-	url = git://github.com/josephworks/BungeeSpigot
+	url = https://github.com/josephworks/BungeeSpigot
 	branch = master
 
 [submodule "BookManager"]
 	path = BookManager
-	url = git://github.com/josephworks/BookManager
+	url = https://github.com/josephworks/BookManager
 	branch = master
 
 [submodule "2DGameKit-Unity"]
 	path = 2DGameKit-Unity
-	url = git://github.com/josephworks/2DGameKit-Unity
+	url = https://github.com/josephworks/2DGameKit-Unity
 	branch = master
 
 [submodule "BukkitGUI2"]
 	path = BukkitGUI2
-	url = git://github.com/josephworks/BukkitGUI2
+	url = https://github.com/josephworks/BukkitGUI2
 	branch = master
 
 [submodule "Scripts"]
 	path = Scripts
-	url = git://github.com/josephworks/Scripts
+	url = https://github.com/josephworks/Scripts
 	branch = master
 
 [submodule "startxcli.sh"]
 	path = startxcli.sh
-	url = git://github.com/josephworks/startxcli.sh
+	url = https://github.com/josephworks/startxcli.sh
 	branch = master
 
 [submodule "files"]
 	path = files
-	url = git://github.com/josephworks/files
+	url = https://github.com/josephworks/files
 	branch = master
 
 [submodule "LunarLander"]
 	path = LunarLander
-	url = git://github.com/josephworks/LunarLander
+	url = https://github.com/josephworks/LunarLander
 	branch = master
 
 [submodule "JavaWS"]
 	path = JavaWS
-	url = git://github.com/josephworks/JavaWS
+	url = https://github.com/josephworks/JavaWS
 	branch = master
 
 [submodule "vbnet"]
 	path = vbnet
-	url = git://github.com/josephworks/vbnet
+	url = https://github.com/josephworks/vbnet
 	branch = master
 
 [submodule "Volcano"]
 	path = Volcano
-	url = git://github.com/josephworks/Volcano
+	url = https://github.com/josephworks/Volcano
 	branch = master
 
 [submodule "McEmeraldtnt"]
 	path = McEmeraldtnt
-	url = git://github.com/josephworks/McEmeraldtnt
+	url = https://github.com/josephworks/McEmeraldtnt
 	branch = master
 
 [submodule "McAdventure"]
 	path = McAdventure
-	url = git://github.com/josephworks/McAdventure
+	url = https://github.com/josephworks/McAdventure
 	branch = master
 
 [submodule "MCPluginDB"]
 	path = MCPluginDB
-	url = git://github.com/josephworks/MCPluginDB
+	url = https://github.com/josephworks/MCPluginDB
 	branch = master
 
 [submodule "ultimatelinux.sh"]
 	path = ultimatelinux.sh
-	url = git://github.com/josephworks/ultimatelinux.sh
+	url = https://github.com/josephworks/ultimatelinux.sh
 	branch = master
 
 [submodule "JosephCore"]
 	path = JosephCore
-	url = git://github.com/josephworks/JosephCore
+	url = https://github.com/josephworks/JosephCore
 	branch = master
 
 [submodule "josephworks.net"]
 	path = josephworks.net
-	url = git://github.com/josephworks/josephworks.net
+	url = https://github.com/josephworks/josephworks.net
 	branch = master
 
 [submodule "josephworks.github.io"]
 	path = josephworks.github.io
-	url = git://github.com/josephworks/josephworks.github.io
+	url = https://github.com/josephworks/josephworks.github.io
 	branch = master
 
 [submodule "josephworks.ddns.net"]
 	path = josephworks.ddns.net
-	url = git://github.com/josephworks/josephworks.ddns.net
+	url = https://github.com/josephworks/josephworks.ddns.net
 	branch = master
 
 [submodule "games"]
 	path = games
-	url = git://github.com/josephworks/games
+	url = https://github.com/josephworks/games
 	branch = master
 
 [submodule "MinecraftMultiversion"]
 	path = MinecraftMultiversion
-	url = git://github.com/josephworks/MinecraftMultiversion
+	url = https://github.com/josephworks/MinecraftMultiversion
 	branch = master
 
 [submodule "McCompile"]
 	path = McCompile
-	url = git://github.com/josephworks/McCompile
+	url = https://github.com/josephworks/McCompile
 	branch = master
 
 [submodule "Gwen-Remade"]
 	path = Gwen-Remade
-	url = git://github.com/josephworks/Gwen-Remade
+	url = https://github.com/josephworks/Gwen-Remade
 	branch = master
 
 [submodule "CMDWorkspaceTools"]
 	path = CMDWorkspaceTools
-	url = git://github.com/josephworks/CMDWorkspaceTools
+	url = https://github.com/josephworks/CMDWorkspaceTools
 	branch = master
 
 [submodule "serverbuilder"]
 	path = serverbuilder
-	url = git://github.com/josephworks/serverbuilder
+	url = https://github.com/josephworks/serverbuilder
 	branch = master
 
 [submodule "WebIDE"]
 	path = WebIDE
-	url = git://github.com/josephworks/WebIDE
+	url = https://github.com/josephworks/WebIDE
 	branch = master
 
 [submodule "JenkinsServer"]
 	path = JenkinsServer
-	url = git://github.com/josephworks/JenkinsServer
+	url = https://github.com/josephworks/JenkinsServer
 	branch = master
 
 [submodule "Registry-Edits"]
 	path = Registry-Edits
-	url = git://github.com/josephworks/Registry-Edits
+	url = https://github.com/josephworks/Registry-Edits
 	branch = master
 
 [submodule "PaperCraft"]
 	path = PaperCraft
-	url = git://github.com/josephworks/PaperCraft
+	url = https://github.com/josephworks/PaperCraft
 	branch = master
 
 [submodule "Paint"]
 	path = Paint
-	url = git://github.com/josephworks/Paint
+	url = https://github.com/josephworks/Paint
 	branch = master
 
 [submodule "PythonWS"]
 	path = PythonWS
-	url = git://github.com/josephworks/PythonWS
+	url = https://github.com/josephworks/PythonWS
 	branch = master
 
 [submodule "SpigotCraft"]
 	path = SpigotCraft
-	url = git://github.com/josephworks/SpigotCraft
+	url = https://github.com/josephworks/SpigotCraft
 	branch = master
 
 [submodule "ThermosServer"]
 	path = ThermosServer
-	url = git://github.com/josephworks/ThermosServer
+	url = https://github.com/josephworks/ThermosServer
 	branch = master
 
 [submodule "Gideon"]
 	path = Gideon
-	url = git://github.com/josephworks/Gideon
+	url = https://github.com/josephworks/Gideon
 	branch = master
 
 [submodule "Powershell-policy-fix"]
 	path = Powershell-policy-fix
-	url = git://github.com/josephworks/Powershell-policy-fix
+	url = https://github.com/josephworks/Powershell-policy-fix
 	branch = master
 
 [submodule "2048"]
 	path = 2048
-	url = git://github.com/josephworks/2048
+	url = https://github.com/josephworks/2048
 	branch = master
