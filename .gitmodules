@@ -158,10 +158,6 @@
 	path = PaperCraft
 	url = git://github.com/josephworks/PaperCraft
 
-[submodule "Paper"]
-	path = Paper
-	url = git://github.com/josephworks/Paper
-
 [submodule "Paint"]
 	path = Paint
 	url = git://github.com/josephworks/Paint
