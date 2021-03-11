@@ -106,10 +106,6 @@
 	path = JosephCore
 	url = git://github.com/josephworks/JosephCore
 
-[submodule "josephworks"]
-	path = josephworks
-	url = git://github.com/josephworks/josephworks
-
 [submodule "josephworks.net"]
 	path = josephworks.net
 	url = git://github.com/josephworks/josephworks.net
