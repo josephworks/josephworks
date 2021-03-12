@@ -1,8 +1,43 @@
+[submodule "WebJava"]
+	path = WebJava
+	url = https://github.com/josephworks/WebJava
+	branch = master
+
+[submodule "FBLAQuizApp"]
+	path = FBLAQuizApp
+	url = https://github.com/josephworks/FBLAQuizApp
+	branch = master
+
+[submodule "YanchopKotlin"]
+	path = YanchopKotlin
+	url = https://github.com/josephworks/YanchopKotlin
+	branch = master
+
+[submodule "Travel"]
+	path = Travel
+	url = https://github.com/josephworks/Travel
+	branch = master
+
+[submodule "JClientServer"]
+	path = JClientServer
+	url = https://github.com/josephworks/JClientServer
+	branch = master
+
 [submodule "about"]
 	path = about
 	url = https://github.com/josephworks/about
 	branch = master
+
+[submodule "Mirror"]
+	path = Mirror
+	url = https://github.com/josephworks/Mirror
+	branch = master
 	
+[submodule "JosephWare"]
+	path = JosephWare
+	url = https://github.com/josephworks/JosephWare
+	branch = master
+
 [submodule "Assistant"]
 	path = Assistant
 	url = https://github.com/josephworks/Assistant
