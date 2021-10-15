@@ -1,16 +1,29 @@
 #!/bin/bash
 
 # Pre-Init
-toilet Starting...
-toilet josephworks
+toilet Starting... && toilet josephworks
 echo installing depends
-sudo apt install git toilet
-mkdir josephworks
-cd josephworks
+sudo apt install git toilet -y
+mkdir josephworks && cd josephworks
 
 # Main
 echo "Cloning all Repositories to ./josephworks ..."
-git submodule update --init --recursive --jobs 8
+i=1
+
+curl "https://api.github.com/users/josephworks/repos?page=${i}&per_page=100" |
+grep -e 'git_url*' |
+cut -d \" -f 4 |
+xargs -L1 git clone
+
+function nextpage
+{
+  curl "https://api.github.com/users/josephworks/repos?page=${i}&per_page=100" |
+  grep -e 'git_url*' |
+  cut -d \" -f 4 |
+  xargs -L1 git clone
+}
+
+[ ! -t 0 ] && nextpage || echo "Done!"
 
 echo "Finished the cloning process"
 echo "Creating Update Script..."
